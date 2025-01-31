@@ -26,3 +26,8 @@ To better understand the data, we create insightful charts:
 
 1. SQL – This was used to query and extract relevant data.
 2. Excel – For exploratory data analysis and data visualization.
+
+## 📊 Final Visualization: 
+Photo1: <a href = "https://github.com/Obiefune/Pizza-Sales-Data-Analysis-Excel-/blob/main/pizza_sales.csv">Pizza_Sales_Dashboard1<a/>
+Photo2: <a href = "https://github.com/Obiefune/Pizza-Sales-Data-Analysis-Excel-/blob/main/pizza_sales.csv">Pizza_Sales_Dashboard2<a/>
+Excel File: <a href = "https://github.com/Obiefune/Pizza-Sales-Data-Analysis-Excel-/blob/main/pizza_sales.csv">Interactive Excel Dashboard<a/>
