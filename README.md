@@ -22,5 +22,6 @@ To better understand the data, we create insightful charts:
 7. Bottom 5 Worst Sellers – A bar chart showcasing the least popular pizzas.
 
 ## 🛠️ Tools & Technologies
+
 SQL – This was used to query and extract relevant data.
-Excel – For exploratory data analysis data visualization.
+Excel – For exploratory data analysis and data visualization.
