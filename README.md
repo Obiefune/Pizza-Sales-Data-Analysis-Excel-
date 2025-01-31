@@ -23,5 +23,5 @@ To better understand the data, we create insightful charts:
 
 ## 🛠️ Tools & Technologies
 
-SQL – This was used to query and extract relevant data.
-Excel – For exploratory data analysis and data visualization.
+1. SQL – This was used to query and extract relevant data.
+2. Excel – For exploratory data analysis and data visualization.
