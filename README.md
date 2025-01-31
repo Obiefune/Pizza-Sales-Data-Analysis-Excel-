@@ -1,6 +1,7 @@
 # 📊 Pizza Sales Data Analysis
 ## 🔍 Project Overview
 This project analyzes pizza sales data to gain valuable insights into business performance. By calculating key metrics and visualizing trends, we can identify sales patterns, customer preferences, and opportunities for improvement.
+## DataSet Used: <a href = "https://github.com/Obiefune/Pizza-Sales-Data-Analysis-Excel-/blob/main/pizza_sales.csv"> Pizza Sales Data<a/>
 ## 📈 Key Metrics
 We focus on the following essential business indicators:
 
